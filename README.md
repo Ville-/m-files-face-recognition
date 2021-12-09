@@ -13,6 +13,9 @@ The solution consists of two applications:
    - Searches matching faces from the vault.
    - Suggests objects with references to matching face encodings as metadata while a document (picture) is saved to the vault.
 
+![Example results](https://github.com/ville-/m-files-face-recognition/blob/main/comparison.png)
+
+
 Face recognition is implemented by [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) library.
 
 
