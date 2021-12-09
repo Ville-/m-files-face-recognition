@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application
+			type="server-application"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:noNamespaceSchemaLocation="http://www.m-files.com/schemas/appdef-server-v2.xsd">
+  <guid>c8c28c84-d938-46d6-bbb2-be86e6dc35e9</guid>
+  <name>SmartFace</name>
+  <description></description>
+  <publisher></publisher>
+  <version>0.1</version>
+  <copyright></copyright>
+  <required-mfiles-version>12.0.6400.37</required-mfiles-version>
+  <application-object>
+    <assembly>SmartFace.dll</assembly>
+    <class>SmartFace.MyApplication</class>
+  </application-object>
+</application>
